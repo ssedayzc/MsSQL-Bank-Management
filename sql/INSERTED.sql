@@ -1,0 +1,8 @@
+--create table INSERTED(
+--C_FirstName nvarchar(30) not null,
+--C_MiddleName nvarchar(30),
+--C_LastName nvarchar(30) not null,
+--C_Address nvarchar(30) ,
+--C_DateOfBirth date not null,
+--C_Phone int not null,
+--C_Age tinyint CHECK (C_Age>=18))
